@@ -1,0 +1,1780 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Plus UI\n"
+"POT-Creation-Date: 2023-12-14 21:52+0800\n"
+"PO-Revision-Date: 2023-12-14 21:52+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:155
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: footer.php:27
+msgid "Share"
+msgstr ""
+
+#: footer.php:32 libs/include/pengaturan.php:1506
+msgid "Comments"
+msgstr ""
+
+#: libs/include/import-demo.php:35
+msgid "before you import this demo, you have to install all required plugins."
+msgstr ""
+
+#: libs/include/inits.php:40
+msgid "Footer Left"
+msgstr ""
+
+#: libs/include/inits.php:41
+msgid "Footer Midle"
+msgstr ""
+
+#: libs/include/inits.php:42
+msgid "Footer Right"
+msgstr ""
+
+#: libs/include/inits.php:43
+msgid "Footer Social Medias"
+msgstr ""
+
+#: libs/include/inits.php:44
+msgid "Side Footer"
+msgstr ""
+
+#: libs/include/inits.php:789
+msgid "Twitter Link"
+msgstr ""
+
+#: libs/include/inits.php:790
+msgid "Facebook Link"
+msgstr ""
+
+#: libs/include/inits.php:791
+msgid "LinkedIn Link"
+msgstr ""
+
+#: libs/include/inits.php:792
+msgid "Instagram Link"
+msgstr ""
+
+#: libs/include/inits.php:793
+msgid "Skype Link"
+msgstr ""
+
+#: libs/include/inits.php:794
+msgid "Telegram Link"
+msgstr ""
+
+#: libs/include/inits.php:795
+msgid "Pinterest Link"
+msgstr ""
+
+#: libs/include/inits.php:796
+msgid "Youtube Link"
+msgstr ""
+
+#: libs/include/inits.php:797
+msgid "Locations"
+msgstr ""
+
+#: libs/include/inits.php:835
+msgid "Theme Docs"
+msgstr ""
+
+#: libs/include/inits.php:1022
+msgid "Exthem.es - Best Product Themes for You"
+msgstr ""
+
+#: libs/include/pengaturan.php:181
+msgid "General"
+msgstr ""
+
+#: libs/include/pengaturan.php:189
+msgid "Headers"
+msgstr ""
+
+#: libs/include/pengaturan.php:234
+msgid "THIS INFO FOR GOOGLE TRANSLATE"
+msgstr ""
+
+#: libs/include/pengaturan.php:339
+msgid "Notification Headers"
+msgstr ""
+
+#: libs/include/pengaturan.php:343
+msgid "You can use HTML code "
+msgstr ""
+
+#: libs/include/pengaturan.php:352
+msgid "Footers"
+msgstr ""
+
+#: libs/include/pengaturan.php:361
+msgid "Footer Copyright"
+msgstr ""
+
+#: libs/include/pengaturan.php:362 libs/include/pengaturan.php:371
+#: libs/include/pengaturan.php:1317 libs/include/pengaturan.php:1700
+#: libs/include/pengaturan.php:1717
+msgid "HTML Allowed"
+msgstr ""
+
+#: libs/include/pengaturan.php:370
+msgid "Footer info"
+msgstr ""
+
+#: libs/include/pengaturan.php:402
+msgid "Fonts & Colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:411
+msgid "Fonts"
+msgstr ""
+
+#: libs/include/pengaturan.php:420
+msgid "THIS IS INFO FOR FONTS SETTINGS"
+msgstr ""
+
+#: libs/include/pengaturan.php:426
+msgid "Font Body (fontH)"
+msgstr ""
+
+#: libs/include/pengaturan.php:428 libs/include/pengaturan.php:435
+#: libs/include/pengaturan.php:442
+msgid ""
+"Default is , <b class=\"cool-link f2\" style=\"color: crimson;\">Google Sans "
+"Text,Arial,Helvetica,sans-serif</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:433
+msgid "Font Body (fontB)"
+msgstr ""
+
+#: libs/include/pengaturan.php:440
+msgid "Font Body (fontBa)"
+msgstr ""
+
+#: libs/include/pengaturan.php:447
+msgid "Font Body (fontC)"
+msgstr ""
+
+#: libs/include/pengaturan.php:449
+msgid ""
+"Default is , <b class=\"cool-link f2\" style=\"color: crimson;\">Google Sans "
+"Mono,monospace</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:454
+msgid "THIS IS INFO FOR FONTS SIZE SETTINGS"
+msgstr ""
+
+#: libs/include/pengaturan.php:460
+msgid "Font Size (headerT)"
+msgstr ""
+
+#: libs/include/pengaturan.php:466 libs/include/pengaturan.php:478
+#: libs/include/pengaturan.php:489 libs/include/pengaturan.php:500
+msgid "Choose <code>Font Size</code>"
+msgstr ""
+
+#: libs/include/pengaturan.php:472
+msgid "Font Size (postT)"
+msgstr ""
+
+#: libs/include/pengaturan.php:483
+msgid "Font Size (postF)"
+msgstr ""
+
+#: libs/include/pengaturan.php:494
+msgid "Font Size (widgetT)"
+msgstr ""
+
+#: libs/include/pengaturan.php:510
+msgid "Colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:519
+msgid "Theme Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:526
+msgid "Light Mode Address bar color"
+msgstr ""
+
+#: libs/include/pengaturan.php:534
+msgid "Basic Colors And Background"
+msgstr ""
+
+#: libs/include/pengaturan.php:540
+msgid "Heading colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:548
+msgid "Body colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:556
+msgid "Alternative body colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:564
+msgid "Main page bakground color"
+msgstr ""
+
+#: libs/include/pengaturan.php:572
+msgid "Link colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:580
+msgid "Button link colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:588
+msgid "Wave background color"
+msgstr ""
+
+#: libs/include/pengaturan.php:596
+msgid "Text Logo Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:603
+msgid "Text Desc Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:610
+msgid "Header Background"
+msgstr ""
+
+#: libs/include/pengaturan.php:617
+msgid "Header Icon Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:625
+msgid "Icon Colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:632
+msgid "Icon colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:640
+msgid "Alternative icon colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:647
+msgid "Secondary icon colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:655
+msgid "Notification"
+msgstr ""
+
+#: libs/include/pengaturan.php:662
+msgid "Notification max height"
+msgstr ""
+
+#: libs/include/pengaturan.php:672
+msgid "Notification background color"
+msgstr ""
+
+#: libs/include/pengaturan.php:679
+msgid "Notification text color"
+msgstr ""
+
+#: libs/include/pengaturan.php:687
+msgid "Other Colors"
+msgstr ""
+
+#: libs/include/pengaturan.php:694
+msgid "Content Background Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:701
+msgid "content Line Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:708
+msgid "Line Separate Text Widget Color "
+msgstr ""
+
+#: libs/include/pengaturan.php:715
+msgid "navT"
+msgstr ""
+
+#: libs/include/pengaturan.php:722
+msgid "navI"
+msgstr ""
+
+#: libs/include/pengaturan.php:729
+msgid "backgroud top categorie "
+msgstr ""
+
+#: libs/include/pengaturan.php:736
+msgid "Navy backgroud Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:743
+msgid "srchI"
+msgstr ""
+
+#: libs/include/pengaturan.php:750
+msgid "srchB"
+msgstr ""
+
+#: libs/include/pengaturan.php:758
+msgid "Color Text footer"
+msgstr ""
+
+#: libs/include/pengaturan.php:765
+msgid "Background Footer"
+msgstr ""
+
+#: libs/include/pengaturan.php:773
+msgid "Mobile Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:779
+msgid "Color Text Mobile footer"
+msgstr ""
+
+#: libs/include/pengaturan.php:786
+msgid "Background Mobile Footer"
+msgstr ""
+
+#: libs/include/pengaturan.php:793
+msgid "mobHv"
+msgstr ""
+
+#: libs/include/pengaturan.php:800
+msgid "Dark Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:806
+msgid "Dark Mode Address bar color"
+msgstr ""
+
+#: libs/include/pengaturan.php:814
+msgid "Dark Text Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:821
+msgid "Dark Text Color Alertnative"
+msgstr ""
+
+#: libs/include/pengaturan.php:828
+msgid "Dark Link Color"
+msgstr ""
+
+#: libs/include/pengaturan.php:835
+msgid "Dark Bacground"
+msgstr ""
+
+#: libs/include/pengaturan.php:842
+msgid "Dark Background Content"
+msgstr ""
+
+#: libs/include/pengaturan.php:849
+msgid "Dark Background Footer"
+msgstr ""
+
+#: libs/include/pengaturan.php:856
+msgid "darkW"
+msgstr ""
+
+#: libs/include/pengaturan.php:867
+msgid "Others Setting"
+msgstr ""
+
+#: libs/include/pengaturan.php:877
+msgid "THIS IS INFO FOR OTHERS SETTINGS"
+msgstr ""
+
+#: libs/include/pengaturan.php:883
+msgid "Header Hight"
+msgstr ""
+
+#: libs/include/pengaturan.php:893
+msgid "content width"
+msgstr ""
+
+#: libs/include/pengaturan.php:903
+msgid "Sidebar width"
+msgstr ""
+
+#: libs/include/pengaturan.php:913
+msgid "Page width"
+msgstr ""
+
+#: libs/include/pengaturan.php:923
+msgid "Button Radius"
+msgstr ""
+
+#: libs/include/pengaturan.php:936
+msgid "Setting Pages"
+msgstr ""
+
+#: libs/include/pengaturan.php:946
+msgid "Index Home"
+msgstr ""
+
+#: libs/include/pengaturan.php:955
+msgid "THIS INFO FOR META POST"
+msgstr ""
+
+#: libs/include/pengaturan.php:962
+msgid "Options Setting for Showing Comments"
+msgstr ""
+
+#: libs/include/pengaturan.php:971
+msgid "Options Setting for Showing Read Views"
+msgstr ""
+
+#: libs/include/pengaturan.php:980
+msgid "Options Setting for Showing Author"
+msgstr ""
+
+#: libs/include/pengaturan.php:988
+msgid "THIS INFO FOR GRID LIST POST FOR MOBILE VIEW Only"
+msgstr ""
+
+#: libs/include/pengaturan.php:995
+msgid "<code>Enable</code> to use One Grid on Mobile"
+msgstr ""
+
+#: libs/include/pengaturan.php:1008
+msgid "Single Post"
+msgstr ""
+
+#: libs/include/pengaturan.php:1017
+msgid "THIS INFO FOR RELATED POST"
+msgstr ""
+
+#: libs/include/pengaturan.php:1024
+msgid "Options Setting for showing Related Post"
+msgstr ""
+
+#: libs/include/pengaturan.php:1032 libs/include/pengaturan.php:1055
+#: libs/include/pengaturan.php:1063 libs/include/pengaturan.php:1089
+#: libs/include/pengaturan.php:1097 libs/include/pengaturan.php:1105
+#: libs/include/pengaturan.php:1113 libs/include/pengaturan.php:1121
+#: libs/include/pengaturan.php:1129 libs/include/pengaturan.php:1153
+#: libs/include/pengaturan.php:1160 libs/include/pengaturan.php:1167
+#: libs/include/pengaturan.php:1174 libs/include/pengaturan.php:1181
+#: libs/include/pengaturan.php:1188 libs/include/pengaturan.php:1195
+#: libs/include/pengaturan.php:1202 libs/include/pengaturan.php:1221
+#: libs/include/pengaturan.php:1228 libs/include/pengaturan.php:1235
+#: libs/include/pengaturan.php:1242 libs/include/pengaturan.php:1249
+#: libs/include/pengaturan.php:1256 libs/include/pengaturan.php:1263
+#: libs/include/pengaturan.php:1270 libs/include/pengaturan.php:1277
+#: libs/include/pengaturan.php:1284 libs/include/pengaturan.php:1291
+#: libs/include/pengaturan.php:1298 libs/include/pengaturan.php:1305
+#: libs/include/pengaturan.php:1521 libs/include/pengaturan.php:1528
+#: libs/include/pengaturan.php:1535 libs/include/pengaturan.php:1542
+#: libs/include/pengaturan.php:1549 libs/include/pengaturan.php:1556
+#: libs/include/pengaturan.php:1563 libs/include/pengaturan.php:1570
+#: libs/include/pengaturan.php:1577 libs/include/pengaturan.php:1584
+#: libs/include/pengaturan.php:1591 libs/include/pengaturan.php:1801
+#: libs/include/pengaturan.php:1808 libs/include/pengaturan.php:1815
+#: libs/include/pengaturan.php:1822 libs/include/pengaturan.php:1829
+#: libs/include/pengaturan.php:1836 libs/include/pengaturan.php:1843
+#: libs/include/pengaturan.php:1850 libs/include/pengaturan.php:1857
+#: libs/include/pengaturan.php:1864 libs/include/pengaturan.php:1871
+#: libs/include/pengaturan.php:1878 libs/include/pengaturan.php:1885
+#: libs/include/pengaturan.php:1892 libs/include/pengaturan.php:1899
+#: libs/include/pengaturan.php:1906 libs/include/pengaturan.php:1913
+#: libs/include/pengaturan.php:1920 libs/include/pengaturan.php:1927
+#: libs/include/pengaturan.php:1934 libs/include/pengaturan.php:1941
+#: libs/include/pengaturan.php:1948 libs/include/pengaturan.php:1955
+#: libs/include/pengaturan.php:1962 libs/include/pengaturan.php:1969
+#: libs/include/pengaturan.php:1976 libs/include/pengaturan.php:1983
+#: libs/include/pengaturan.php:1990 libs/include/pengaturan.php:1997
+#: libs/include/pengaturan.php:2004 libs/include/pengaturan.php:2011
+#: libs/include/pengaturan.php:2018
+msgid "Opt Title"
+msgstr ""
+
+#: libs/include/pengaturan.php:1034
+msgid "Default is <b>You may like these posts</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1040
+msgid "THIS INFO FOR META POST "
+msgstr ""
+
+#: libs/include/pengaturan.php:1047
+msgid "Options Setting for Showing Reading Time"
+msgstr ""
+
+#: libs/include/pengaturan.php:1057
+msgid "Default is <b>Estimated read time:</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1065
+msgid "Default is <b>mins</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1072
+msgid "Options Setting for Showing View Counters"
+msgstr ""
+
+#: libs/include/pengaturan.php:1081
+msgid "Options Setting for Showing Greetings"
+msgstr ""
+
+#: libs/include/pengaturan.php:1091
+msgid "Default is <b>Have a Sweet Dreams!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1099
+msgid "Default is <b>Good Morning!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1107
+msgid "Default is <b>Good Afternoon!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1115
+msgid "Default is <b>Good Evening!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1123
+msgid "Default is <b>Good Night!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1131
+msgid "Default is <b>It's time to sleep!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1138
+msgid "Options Setting for Showing Next & Previous Post"
+msgstr ""
+
+#: libs/include/pengaturan.php:1147
+msgid "THIS INFO FOR META OTHER POST "
+msgstr ""
+
+#: libs/include/pengaturan.php:1155
+msgid "Default is <b>About the Author</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1162 libs/include/pengaturan.php:1251
+msgid "Default is <b>View</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1169
+msgid "Default is <b>Share:</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1176
+msgid "Default is <b>Share to other apps</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1183 libs/include/pengaturan.php:1551
+#: libs/include/pengaturan.php:1866
+msgid "Default is <b>Close</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1190
+msgid "Default is <b>Copy to clipboard</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1197 libs/include/pengaturan.php:1244
+msgid "Default is <b>Copy</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1204
+msgid "Default is <b>Link copied to clipboard</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1212
+msgid "Safelink"
+msgstr ""
+
+#: libs/include/pengaturan.php:1223
+msgid ""
+"Default is <b>Tool to protect URLs, and shorten safelink URLs automatically."
+"</b><br> HTML Allowed"
+msgstr ""
+
+#: libs/include/pengaturan.php:1230
+msgid "Default is <b>Enter Link here</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1237
+msgid "Default is <b>Protected Link</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1258
+msgid "Default is <b>Link Protected, Click on Copy</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1265
+msgid "Default is <b>Enter link to protect!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1272
+msgid "Default is <b>Copied to clipboard!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1279
+msgid ""
+"Default is <b>Scroll Down and click on &lt;span class='hglt'&gt;Go to "
+"Link&lt;/span&gt; for destination</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1286
+msgid "Default is <b>Congrats! Link is Generated</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1293
+msgid "Default is <b>Go to Link</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1300
+msgid "Default is <b>Please wait...</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1307
+msgid "Default is <b>Link is Generated</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1312
+msgid "Opt Content"
+msgstr ""
+
+#: libs/include/pengaturan.php:1322
+msgid "Link Go"
+msgstr ""
+
+#: libs/include/pengaturan.php:1324
+msgid "Default is <b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1329
+msgid "Opt Link Go"
+msgstr ""
+
+#: libs/include/pengaturan.php:1331
+msgid "Default is <b>link</b> "
+msgstr ""
+
+#: libs/include/pengaturan.php:1336
+msgid "Timer"
+msgstr ""
+
+#: libs/include/pengaturan.php:1370
+msgid "Menu"
+msgstr ""
+
+#: libs/include/pengaturan.php:1379
+msgid "Home Pages"
+msgstr ""
+
+#: libs/include/pengaturan.php:1380
+msgid "Options Setting for Collapse menus on Homepage"
+msgstr ""
+
+#: libs/include/pengaturan.php:1388
+msgid "Single Posts"
+msgstr ""
+
+#: libs/include/pengaturan.php:1389
+msgid "Options Setting for Collapse menus on Single Posts"
+msgstr ""
+
+#: libs/include/pengaturan.php:1397
+msgid "Pages"
+msgstr ""
+
+#: libs/include/pengaturan.php:1398
+msgid "Options Setting for Collapse menus on Pages and Custom Pages"
+msgstr ""
+
+#: libs/include/pengaturan.php:1406
+msgid "Menu sidebar"
+msgstr ""
+
+#: libs/include/pengaturan.php:1459
+msgid ""
+"edit the link <b>'#add_your_link'</b> with your links<br>remove "
+"<b>checked=''</b> if you don't want to open"
+msgstr ""
+
+#: libs/include/pengaturan.php:1465
+msgid "Menu Social Media Sidebar"
+msgstr ""
+
+#: libs/include/pengaturan.php:1499
+msgid "edit the link '#add_your_link' with your links"
+msgstr ""
+
+#: libs/include/pengaturan.php:1515
+msgid "THIS INFO FOR META COMMENTS POST "
+msgstr ""
+
+#: libs/include/pengaturan.php:1523
+msgid "Default is <b>Join the conversation</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1530
+msgid "Default is <b>Comments</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1537
+msgid "Default is <b>Newest</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1544
+msgid "Default is <b>Oldest</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1558
+msgid "Default is <b>View replies</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1565
+msgid "Default is <b>Hide replies</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1572
+msgid "Default is <b>Your Name</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1579
+msgid "Default is <b>Your Email</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1586
+msgid "Default is <b>Your Comments</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1593
+msgid "Default is <b>Submit</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1601
+msgid "Advertise"
+msgstr ""
+
+#: libs/include/pengaturan.php:1609
+msgid "Slot Ads 1"
+msgstr ""
+
+#: libs/include/pengaturan.php:1610
+msgid "Options Setting for Slot Ads 1"
+msgstr ""
+
+#: libs/include/pengaturan.php:1627
+msgid "Slot Ads 2"
+msgstr ""
+
+#: libs/include/pengaturan.php:1628
+msgid "Options Setting for Slot Ads 2"
+msgstr ""
+
+#: libs/include/pengaturan.php:1644
+msgid "Slot Ads 3"
+msgstr ""
+
+#: libs/include/pengaturan.php:1645
+msgid "Options Setting for Slot Ads 3"
+msgstr ""
+
+#: libs/include/pengaturan.php:1661
+msgid "Slot Ads 4"
+msgstr ""
+
+#: libs/include/pengaturan.php:1662
+msgid "Options Setting for Slot Ads 4"
+msgstr ""
+
+#: libs/include/pengaturan.php:1684
+msgid "Inject JS CSS"
+msgstr ""
+
+#: libs/include/pengaturan.php:1701
+msgid ""
+"You can Inject Scripts or CSS Style on Header<br>example<br>&lt;style&gt;<b "
+"style=\"color:#c09853;background-color: #fcf8e3;\">.sample {display:none}</"
+"b>&lt;/style&gt;\n"
+"\t\t\t<br>\n"
+"\t\t\t&lt;script&gt;<b style=\"color:#c09853;background-color: #fcf8e3;"
+"\">Your code</b>&lt;/script&gt;"
+msgstr ""
+
+#: libs/include/pengaturan.php:1718
+msgid ""
+"You can Inject Scripts or CSS Style on Footer<br>example<br>&lt;style&gt;<b "
+"style=\"color:#c09853;background-color: #fcf8e3;\">.sample {display:none}</"
+"b>&lt;/style&gt;\n"
+"\t\t\t<br>\n"
+"\t\t\t&lt;script&gt;<b style=\"color:#c09853;background-color: #fcf8e3;"
+"\">Your code</b>&lt;/script&gt;"
+msgstr ""
+
+#: libs/include/pengaturan.php:1730
+msgid "Options"
+msgstr ""
+
+#: libs/include/pengaturan.php:1738
+msgid "Image No Founds"
+msgstr ""
+
+#: libs/include/pengaturan.php:1739
+msgid ""
+"Upload <code> No Images Founds </code><br>if you want to use your own "
+"picture "
+msgstr ""
+
+#: libs/include/pengaturan.php:1746
+msgid "Admin Bar"
+msgstr ""
+
+#: libs/include/pengaturan.php:1747
+msgid "Options Setting for Showing Admin Bar"
+msgstr ""
+
+#: libs/include/pengaturan.php:1755
+msgid "Cookie"
+msgstr ""
+
+#: libs/include/pengaturan.php:1756
+msgid "Options Setting for Cookie"
+msgstr ""
+
+#: libs/include/pengaturan.php:1764
+msgid "No Internet"
+msgstr ""
+
+#: libs/include/pengaturan.php:1765
+msgid "Options Setting for No Internet"
+msgstr ""
+
+#: libs/include/pengaturan.php:1773
+msgid "Bookmark"
+msgstr ""
+
+#: libs/include/pengaturan.php:1774
+msgid "Options Setting for Showing Bookmark"
+msgstr ""
+
+#: libs/include/pengaturan.php:1786
+msgid "Change Language"
+msgstr ""
+
+#: libs/include/pengaturan.php:1795
+msgid "infos"
+msgstr ""
+
+#: libs/include/pengaturan.php:1796
+msgid "Please <b>Change Language</b> As You Wish on here"
+msgstr ""
+
+#: libs/include/pengaturan.php:1803
+msgid "Default is <b>Home</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1810
+msgid "Default is <b>Search</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1817
+msgid "Default is <b>Read more</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1824
+msgid "Default is <b>Published</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1831
+msgid "Default is <b>in</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1838
+msgid "Default is <b>Latest posts</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1845
+msgid "Default is <b>Search this blog</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1852
+msgid "Default is <b>Clear</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1859
+msgid "Default is <b>Contributors</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1873
+msgid "Default is <b>Something Wrong!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1880
+msgid ""
+"Default is <b>The page you've requested can't be found. Why don't you browse "
+"around?</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1887
+msgid "Default is <b>Take me back</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1894
+msgid "Default is <b>404</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1901
+msgid "Default is <b>Sorry...</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1908
+msgid "Default is <b>not founds</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1915
+msgid "Default is <b>Table of Contents</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1922
+msgid "Default is <b>Show</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1929
+msgid "Default is <b>Hide</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1936
+msgid "Default is <b>Read later</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1943
+msgid "Default is <b>Remove</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1950
+msgid "Default is <b>Bookmark Posts</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1957
+msgid "Default is <b>The list of favorite articles does not exist yet...</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1964
+msgid "Default is <b>View all articles</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1971
+msgid "Default is <b>Added to Bookmarks!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1978
+msgid "Default is <b>Removed from Bookmarks!</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1985
+msgid "Default is <b>Translate</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1992
+msgid "Default is <b>Theme Color</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:1999
+msgid "Default is <b>Change Mode</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:2006
+msgid "Default is <b>Light</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:2013
+msgid "Default is <b>Dark</b>"
+msgstr ""
+
+#: libs/include/pengaturan.php:2020
+msgid "Default is <b>System Default</b>"
+msgstr ""
+
+#: libs/include/tgm.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: libs/include/tgm.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: libs/include/tgm.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: libs/include/tgm.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: libs/include/tgm.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: libs/include/tgm.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: libs/include/tgm.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: libs/include/tgm.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: libs/include/tgm.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: libs/include/tgm.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: libs/include/tgm.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/include/tgm.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/include/tgm.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/include/tgm.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/include/tgm.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: libs/include/tgm.php:386 libs/include/tgm.php:827 libs/include/tgm.php:2533
+#: libs/include/tgm.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: libs/include/tgm.php:387 libs/include/tgm.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: libs/include/tgm.php:388 libs/include/tgm.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: libs/include/tgm.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: libs/include/tgm.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: libs/include/tgm.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: libs/include/tgm.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: libs/include/tgm.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: libs/include/tgm.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: libs/include/tgm.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: libs/include/tgm.php:523
+msgid "Update Required"
+msgstr ""
+
+#: libs/include/tgm.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: libs/include/tgm.php:934 libs/include/tgm.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: libs/include/tgm.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: libs/include/tgm.php:1121 libs/include/tgm.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: libs/include/tgm.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: libs/include/tgm.php:2273
+msgid "Required"
+msgstr ""
+
+#: libs/include/tgm.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: libs/include/tgm.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: libs/include/tgm.php:2295
+msgid "External Source"
+msgstr ""
+
+#: libs/include/tgm.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: libs/include/tgm.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: libs/include/tgm.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: libs/include/tgm.php:2321
+msgid "Active"
+msgstr ""
+
+#: libs/include/tgm.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: libs/include/tgm.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: libs/include/tgm.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: libs/include/tgm.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: libs/include/tgm.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: libs/include/tgm.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: libs/include/tgm.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: libs/include/tgm.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: libs/include/tgm.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: libs/include/tgm.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: libs/include/tgm.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: libs/include/tgm.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: libs/include/tgm.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: libs/include/tgm.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: libs/include/tgm.php:2548
+msgid "Source"
+msgstr ""
+
+#: libs/include/tgm.php:2549
+msgid "Type"
+msgstr ""
+
+#: libs/include/tgm.php:2553
+msgid "Version"
+msgstr ""
+
+#: libs/include/tgm.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: libs/include/tgm.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: libs/include/tgm.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: libs/include/tgm.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: libs/include/tgm.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: libs/include/tgm.php:2717
+msgid "Install"
+msgstr ""
+
+#: libs/include/tgm.php:2723
+msgid "Update"
+msgstr ""
+
+#: libs/include/tgm.php:2726
+msgid "Activate"
+msgstr ""
+
+#: libs/include/tgm.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: libs/include/tgm.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: libs/include/tgm.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: libs/include/tgm.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: libs/include/tgm.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: libs/include/tgm.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: libs/include/tgm.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: libs/include/tgm.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: libs/include/tgm.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: libs/include/tgm.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: libs/include/tgm.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: libs/include/tgm.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: libs/include/tgm.php:3509 libs/include/tgm.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: libs/include/tgm.php:3509 libs/include/tgm.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: libs/include/tgm.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: libs/include/tgm.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libs/include/tgm.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: libs/include/tgm.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: libs/include/tgm.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: libs/include/tgm.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:10
+msgid "Display Post by Selected Categorie on Home"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:12
+msgid "(Plus UI) Home Categorie"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:246
+msgid "Home Widget"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:328 libs/widget/widget-sidebar-alt.php:212
+#: libs/widget/widget-sidebar.php:362 libs/widget/widget-slider.php:230
+msgid "All Categories"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:346 libs/widget/widget-sidebar-alt.php:229
+#: libs/widget/widget-sidebar.php:380 libs/widget/widget.php:518
+msgid "Title:"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:353
+msgid "Button Link :"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:358
+msgid ""
+"Target url for title (example: http://www.domain.com/target), leave blank if "
+"you want using title without link."
+msgstr ""
+
+#: libs/widget/widget-categorie.php:362
+msgid "Button Title :"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:392 libs/widget/widget-sidebar-alt.php:234
+msgid "Selected categories"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:399 libs/widget/widget-sidebar-alt.php:237
+#: libs/widget/widget-sidebar.php:399 libs/widget/widget-slider.php:253
+msgid ""
+"Click on the categories with pressed CTRL key to select multiple categories. "
+"If All Categories was selected then other selections will be ignored."
+msgstr ""
+
+#: libs/widget/widget-categorie.php:403 libs/widget/widget-sidebar-alt.php:241
+#: libs/widget/widget-sidebar.php:403 libs/widget/widget.php:163
+msgid "Number post"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:410 libs/widget/widget-featured.php:265
+msgid "Show Excerpt?"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:414 libs/widget/widget-sidebar.php:418
+#: libs/widget/widget-slider.php:268
+msgid "Mode:"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:418 libs/widget/widget-sidebar.php:422
+#: libs/widget/widget-slider.php:272
+msgid "Recent Posts"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:419 libs/widget/widget-sidebar.php:423
+#: libs/widget/widget-slider.php:273
+msgid "Random Posts"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:420 libs/widget/widget-sidebar.php:424
+#: libs/widget/widget-slider.php:274
+msgid "Recent Modified "
+msgstr ""
+
+#: libs/widget/widget-categorie.php:421 libs/widget/widget-sidebar.php:425
+#: libs/widget/widget-slider.php:275
+msgid "Post Views"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:427 libs/widget/widget-sidebar.php:431
+#: libs/widget/widget-slider.php:281
+msgid "Date:"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:431 libs/widget/widget-sidebar.php:435
+#: libs/widget/widget-slider.php:285
+msgid "All Time"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:432 libs/widget/widget-sidebar.php:436
+#: libs/widget/widget-slider.php:286
+msgid "Past Year"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:433 libs/widget/widget-sidebar.php:437
+#: libs/widget/widget-slider.php:287
+msgid "Past Month"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:434 libs/widget/widget-sidebar.php:438
+#: libs/widget/widget-slider.php:288
+msgid "Past Week"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:435 libs/widget/widget-sidebar-alt.php:265
+#: libs/widget/widget-sidebar.php:439 libs/widget/widget-slider.php:289
+msgid "Last \"X\" days"
+msgstr ""
+
+#: libs/widget/widget-categorie.php:439 libs/widget/widget-sidebar-alt.php:269
+#: libs/widget/widget-sidebar.php:443 libs/widget/widget-slider.php:293
+msgid "Number of last days to filter:"
+msgstr ""
+
+#: libs/widget/widget-featured.php:15
+msgid "Display post on Featured."
+msgstr ""
+
+#: libs/widget/widget-featured.php:17
+msgid "(Plus UI) Featured "
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:10
+msgid "Display Post with One Images on Sidebar Widget."
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:12
+msgid "(Median) Sidebar Post with One Images"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:143
+msgid "Widget Sidebar Post Images"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:247
+msgctxt "admin"
+msgid "Mode:"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:249
+msgctxt "admin"
+msgid "Recent Posts"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:250
+msgctxt "admin"
+msgid "Random Posts"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:252
+msgctxt "admin"
+msgid "Post views"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:259
+msgctxt "admin"
+msgid "Date:"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:261
+msgctxt "admin"
+msgid "All Time"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:262
+msgctxt "admin"
+msgid "Past Year"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:263
+msgctxt "admin"
+msgid "Past Month"
+msgstr ""
+
+#: libs/widget/widget-sidebar-alt.php:264
+msgctxt "admin"
+msgid "Past Week"
+msgstr ""
+
+#: libs/widget/widget-sidebar.php:9
+msgid "Display Post With Images or out Images on Sidebar."
+msgstr ""
+
+#: libs/widget/widget-sidebar.php:11
+msgid "(Plus UI) Sidebar "
+msgstr ""
+
+#: libs/widget/widget-sidebar.php:286
+msgid "Widget Sidebar"
+msgstr ""
+
+#: libs/widget/widget-sidebar.php:394 libs/widget/widget-slider.php:248
+msgid "Selected Categories"
+msgstr ""
+
+#: libs/widget/widget-sidebar.php:410
+msgid "Show First Images?"
+msgstr ""
+
+#: libs/widget/widget-sidebar.php:414
+msgid "Show Desc ?"
+msgstr ""
+
+#: libs/widget/widget-slider.php:10
+msgid "Display Slider Posts on Home"
+msgstr ""
+
+#: libs/widget/widget-slider.php:12
+msgid "(Plus UI) Slider"
+msgstr ""
+
+#: libs/widget/widget-slider.php:257
+msgid "Number Post"
+msgstr ""
+
+#: libs/widget/widget-slider.php:264
+msgid "Show Title?"
+msgstr ""
+
+#: libs/widget/widget.php:23
+msgid "Display List Category on Sidebar"
+msgstr ""
+
+#: libs/widget/widget.php:30
+msgid "Sidebar Category"
+msgstr ""
+
+#: libs/widget/widget.php:150
+msgid "Select for Styles."
+msgstr ""
+
+#: libs/widget/widget.php:154
+msgid "Style 1"
+msgstr ""
+
+#: libs/widget/widget.php:155
+msgid "Style 2"
+msgstr ""
+
+#: libs/widget/widget.php:159
+msgid "Select for styles."
+msgstr ""
+
+#: libs/widget/widget.php:205
+msgid "Display Recent Comments on Sidebar"
+msgstr ""
+
+#: libs/widget/widget.php:212
+msgid "Recent Comments"
+msgstr ""
+
+#: libs/widget/widget.php:271
+msgid "Display Advertiser or Banner Images Ads"
+msgstr ""
+
+#: libs/widget/widget.php:315
+msgid "Sticky Ads?"
+msgstr ""
+
+#: libs/widget/widget.php:348
+msgid "Display Advertiser or Banner Images Ads on Floating Footer "
+msgstr ""
+
+#: libs/widget/widget.php:419
+msgid "Display Notification on Header "
+msgstr ""
+
+#: libs/widget/widget.php:499
+msgid " Sidebar Posts"
+msgstr ""
+
+#: libs/widget/widget.php:500
+msgid ""
+"Displays latest posts or posts from a choosen category. Use this widget in "
+"the main sidebars."
+msgstr ""
+
+#: libs/widget/widget.php:506
+msgid "Latest Posts"
+msgstr ""
+
+#: libs/widget/widget.php:522
+msgid "Select a post category"
+msgstr ""
+
+#: libs/widget/widget.php:526
+msgid "Number of posts:"
+msgstr ""
+
+#: libs/widget/widget.php:531
+msgid "Ignore sticky posts."
+msgstr ""
+
+#: template/template.sitemap.php:60
+msgid "Show all"
+msgstr ""
+
+#: template/template.sitemap.php:60
+msgid "Hide all"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Plus UI"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://exthem.es"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Plus UI Theme for Wordpress.. redesign by by <a href=\"https://exthem.es/\" "
+"target=\"_blank\">exthem.es</a> - <a href=\"https://rey.web.id/\" target="
+"\"_blank\">rey.web.id</a>."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "exthem.es"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://exthem.es/"
+msgstr ""

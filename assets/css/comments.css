@@ -1,0 +1,355 @@
+/* Comments */ 
+.pCmnts {
+	margin-top: 50px;
+}
+
+.cmDis {
+	text-align: center;
+	margin-top: 20px;
+	opacity: .7;
+}
+
+.cmMs {
+	margin-bottom: 20px;
+}
+
+.cm iframe {
+	width: 100%;
+}
+
+.cm:not(.cmBr) .cmBrs {
+	background: transparent;
+	position: relative;
+	padding: 60px 20px 0;
+	width: calc(100% + 40px);
+	left: -20px;
+	right: -20px;
+}
+
+.cmH h3.title {
+	margin: 0;
+	flex-grow: 1;
+	padding: 16px 10px;
+}
+
+.cmH .s {
+	margin: 0 14px;
+}
+
+.cmH .s::before {
+	content: attr(data-text);
+	margin: 0 6px;
+	opacity: .7;
+	font-size: 90%;
+}
+
+.cmH .s::after {
+	content: '\296E';
+	line-height: 18px;
+	font-size: 17px;
+}
+
+.cmAv .im {
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	position: relative;
+}
+
+.cmBd.del .cmCo {
+	font-style: italic;
+	font-size: 90%;
+	line-height: normal;
+	border: 1px dashed rgba(0,0,0,.2);
+	border-radius: 3px;
+	margin: .5em 0;
+	padding: 15px;
+	opacity: .7;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.cmHr {
+	line-height: 24px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.cmHr .d {
+	font-size: 90%;
+	opacity: .7;
+}
+
+.cmHr .d::before {
+	content: '\00B7';
+	margin: 0 7px;
+}
+
+.cmHr.a .n {
+	display: inline-flex;
+	align-items: center;
+}
+
+.cmHr.a .n::after {
+	content: '\2714';
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 14px;
+	height: 14px;
+	font-size: 8px;
+	background: #519bd6;
+	color: #fefefe;
+	border-radius: 50%;
+	margin: 0 3px;
+}
+
+.cmCo {
+	line-height: 1.6em;
+	opacity: .9;
+}
+
+.cmC i[rel=image] {
+	font-size: 90%;
+	display: block;
+	position: relative;
+	min-height: 50px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	margin: 1em auto;
+}
+
+.cmC i[rel=image]::before {
+	content: 'This feature isn\0027t available!';
+	border: 1px dashed rgba(0,0,0,.2);
+	border-radius: 3px;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: var(--contentB);
+}
+
+.cmC i[rel=pre], .cmC i[rel=quote] {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	font-style: normal;
+	line-height: inherit;
+	padding: 20px;
+}
+
+.cmC i[rel=pre]::before {
+	display: block;
+	width: auto;
+}
+
+.cmC i[rel=quote] {
+	display: block;
+	font-style: italic;
+	font-size: inherit;
+	padding: 5px 15px;
+}
+
+.cmCo img {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.cmAc {
+	margin-top: 10px;
+}
+
+.cmAc a {
+	font-size: 90%;
+	color: inherit;
+	opacity: .7;
+	display: inline-flex;
+}
+
+.cmAc a::before {
+	content: '\2934';
+	line-height: 18px;
+	font-size: 16px;
+	transform: rotate(90deg);
+}
+
+.cmAc a::after {
+	content: attr(data-text);
+	margin: 0 6px;
+}
+
+.cmR {
+	margin: 10px 40px 0;
+}
+
+.cmRp ~ .cmAc, .cmBd.del ~ .cmAc, .onItm:not(.Rtl) .cmHr .date {
+	display: none;
+}
+
+.cmRi:checked ~ .cmRp .thTg {
+	margin-bottom: 0;
+}
+
+.cmRi:checked ~ .cmRp .thTg::after {
+	content: attr(aria-label);
+}
+
+.cmRi:checked ~ .cmRp .thCh, .cmRi:checked ~ .cmRp .cmR {
+	display: none;
+}
+
+.cmAl:checked ~ .cm .cmH .s::before {
+	content: attr(data-new);
+}
+
+.cmAl:checked ~ .cm .cmCn >ol {
+	flex-direction: column-reverse;
+}
+
+.thTg {
+	display: inline-flex;
+	align-items: center;
+	margin: 15px 0 18px;
+	font-size: 90%;
+}
+
+.thTg::before {
+	content: '';
+	width: 28px;
+	border-bottom: 1px solid var(--widgetTac);
+	opacity: .5;
+}
+
+.thTg::after {
+	content: attr(data-text);
+	margin: 0 12px;
+	opacity: .7;
+}
+
+.cmCn ol {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+}
+ol.children, ul.children {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+}
+
+.cmCn li {
+	margin-bottom: 18px;
+	position: relative;
+}
+
+.cmCn li .cmRbox {
+	margin-top: 20px;
+}
+
+.cmCn li li {
+	display: flex;
+	flex-wrap: wrap;
+	width: calc(100% + 12px);
+	left: -6px;
+	right: -6px;
+}
+
+.cmCn li li:last-child {
+	margin-bottom: 0;
+}
+
+.cmCn li li .cmAv {
+	flex: 0 0 28px;
+	margin: 0 6px;
+}
+
+.cmCn li li .cmAv .im {
+	width: 28px;
+	height: 28px;
+}
+
+.cmCn li li .cmIn {
+	width: calc(100% - 52px);
+	margin: 0 6px;
+}
+
+.cmHl >li {
+	padding-left: 17.5px;
+}
+
+.cmHl >li >.cmAv {
+	position: absolute;
+	left: 0;
+	top: 12px;
+}
+
+.cmHl >li >.cmIn {
+	padding: 12px 15px 12px 28px;
+	border: 1px solid var(--contentL);
+	border-radius: 12px;
+	box-shadow: 0 10px 8px -10px rgba(0,0,0,.1);
+} 
+
+ul.children >li {
+	padding-left: 17.5px;
+}
+
+ul.children >li >.cmAv {
+	position: absolute;
+	left: 0;
+	top: 12px;
+}
+
+ul.children >li >.cmIn {
+	padding: 12px 15px 12px 28px;
+	border: 1px solid var(--contentL);
+	border-radius: 12px;
+	box-shadow: 0 10px 8px -10px rgba(0,0,0,.1);
+} 
+/* Comments Show/Hide */
+#comment:target {
+	margin: 0;
+	padding-top: 60px;
+}
+
+.cmSh:checked ~ .cmShw, .cmShw ~ .cm:not(.cmBr), #comment:target .cmShw, #comment:target .cmSh:checked ~ .cm:not(.cmBr) {
+	display: none;
+}
+
+.cmSh:checked ~ .cm:not(.cmBr), #comment:target .cm:not(.cmBr), #comment:target .cmSh:checked ~ .cmShw {
+	display: block;
+}
+
+.cmBtn {
+	display: block;
+	padding: 20px;
+	text-align: center;
+	max-width: 100%;
+}
+
+.cmBtn.ln:hover {
+	color: var(--linkB);
+} 
+/* Comments Pop-up */
+#comment:target .cmSh:checked ~ .cm.cmBr {
+	bottom: -100%;
+	opacity: 0;
+	visibility: hidden;
+}
+
+#comment:target .cmSh:checked ~ .cm.cmBr .fCls {
+	opacity: 0;
+	visibility: hidden;
+}
